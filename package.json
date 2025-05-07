@@ -1,0 +1,26 @@
+{
+     "name": "agile-project-consultant",
+     "version": "1.0.0",
+     "description": "An AI agent that provides expert guidance on agile development processes",
+     "main": "index.js",
+     "scripts": {
+       "start": "node index.js",
+       "test": "echo \"Error: no test specified\" && exit 1"
+     },
+     "keywords": [
+       "agile",
+       "scrum",
+       "kanban",
+       "project-management",
+       "vibing-ai",
+       "ai-agent"
+     ],
+     "author": "Melisa",
+     "license": "MIT",
+     "dependencies": {
+       "@vibing-ai/sdk": "^1.0.0"
+     },
+     "engines": {
+       "node": ">=14.0.0"
+     }
+   }
