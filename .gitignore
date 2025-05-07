@@ -1,0 +1,30 @@
+# Python compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# Editor/IDE files
+.vscode/
+.idea/
+*.swp
+
+# macOS
+.DS_Store
+
+# Flask-specific
+instance/
+
+# Project-specific
+agile_consultation.json
