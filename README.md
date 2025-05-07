@@ -11,10 +11,6 @@ An interactive web application that helps teams determine the most suitable agil
 - **Relevant Metrics**: Learn which metrics would be most valuable to track for your particular context
 - **Conversation History**: Review and save your consultation for future reference
 
-## Screenshot
-
-*[Add a screenshot of the application interface here]*
-
 ## Installation
 
 ### Prerequisites
